@@ -74,6 +74,8 @@ main{width: 1140px; margin: auto; }
 
 /* REsume section */
 
+.about-title{ padding: 20px; margin-top: 140px; }
+
 .resume-parent{ display: flex; /* gap: 40px */; justify-content: center; justify-content: space-around;}
 
 .first-colum{ width: 500px; height: 175px;}
