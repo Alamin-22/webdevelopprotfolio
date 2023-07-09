@@ -1,0 +1,47 @@
+*{margin: 0px; padding: 0px;}
+
+/* common shared styles */
+body {font-family: 'Open Sans', sans-serif;}
+
+.btn{ background-color: #FD6E0A; color: aliceblue; padding: 5px; border-radius: 5px; font-size: 22px; cursor: pointer; border: 0px; margin-right: 10px;}
+.btn:hover{ color: rgb(101, 29, 168);}
+
+.about-title{text-align: center;  color: #181818; font-size: 35px; font-weight: 700; }
+
+/* nav related styles */
+nav{ display: flex; justify-content: space-around; align-items: center; }
+
+.nav-title{ font-size: 40px; }
+
+.primary-color{ color: #FD6E0A }
+
+nav > ul{ display: flex; align-items: center;}
+
+nav > ul > li{ margin-right: 50px; list-style: none ; }
+
+nav > ul > li > a{ text-decoration: none; color: black;}
+
+nav > ul > li > a:hover{  color: #FD6E0A;}
+
+ /* header section */
+
+ .header{ background-color: #FFF8F3; background-image: url(../images/header_bg.png); background-repeat: no-repeat; background-position: bottom right;}
+
+ nav{ margin: 0px 100px;}
+
+ /* banner section */
+
+ .banner{ padding:  30px  30px 0px 150px; display: flex; align-items: center; justify-content: space-around;}
+.harder{ width: 400px; height: 500px;}
+
+.banner-text{ width: 585px; height: 356px ;}
+
+.banner-greeting{ font-size: 20px; margin-bottom: 0px;}
+.banner-title{ font-weight:bolder; margin-top: 6px; bottom:0px;}
+.banner-paragraph{ font-weight: 400; margin-top: 4px; margin-bottom: 15px;}
+
+/* About section */
+
+.about-description{ font-size: 18px; font-family:'Open Sans', sans-serif; color: #757575; text-align: center; }
+
+.about{ padding: 130px; background-color: #FFF8F3; border: solid black; margin: 130px 0px; }
