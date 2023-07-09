@@ -53,6 +53,10 @@ main{width: 1140px; margin: auto; }
 
 .info-title{ margin-top: 10px; text-align: center; color: #757575;}
 
-.info-description{ color:#181818;font-size: 20px; font-family:'Open Sans', sans-serif; }                  
+.info-description{ color:#181818;font-size: 20px; font-family:'Open Sans', sans-serif; }  
+
+/* what i do section */
+
+#id{ padding:30px 150px }
 
 
