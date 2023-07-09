@@ -40,8 +40,19 @@ nav > ul > li > a:hover{  color: #FD6E0A;}
 .banner-title{ font-weight:bolder; margin-top: 6px; bottom:0px;}
 .banner-paragraph{ font-weight: 400; margin-top: 4px; margin-bottom: 15px;}
 
+/* main section */
+
+main{width: 1140px; margin: auto; }
+
 /* About section */
+.about{ padding: 130px; background-color: #FFF8F3; margin: 120px 0px; }
 
+.about-title{padding: 30px;}
 .about-description{ font-size: 18px; font-family:'Open Sans', sans-serif; color: #757575; text-align: center; }
+.parent{display: flex; justify-content: space-around;}
 
-.about{ padding: 130px; background-color: #FFF8F3; margin: 130px 0px; }
+.info-title{ margin-top: 10px; text-align: center; color: #757575;}
+
+.info-description{ color:#181818;font-size: 20px; font-family:'Open Sans', sans-serif; }                  
+
+
