@@ -74,15 +74,42 @@ main{width: 1140px; margin: auto; }
 
 /* REsume section */
 
-.about-title{ padding: 20px; margin-top: 140px; }
+.about-title{ padding: 20px; margin-top: 100px; }
 
 .resume-parent{ display: flex; /* gap: 40px */; justify-content: center; justify-content: space-around;}
 
 .first-colum{ width: 500px; height: 175px;}
 
-.resume-head{ margin: 5px  0px 15px 0px; color: #383434;}
+.resume-head{ margin: 2px  0px 8px 0px; color: #383434;}
 .resume-title{color: #352828; font-weight: bold; margin-bottom: 5px; font-family: ; }
 .resume-versity{ margin-bottom: 2px; color: rgb(63, 56, 63);}
 
-.resume-description{ font-weight: 500; margin-bottom: 8px; }
+.resume-description{ font-weight: 500; margin-bottom: 2px; }
+
+.download{ text-align: center;}
+
+/* footer section */
+
+
+.foot{ display: flex; align-items: center; height: 450px; margin-top: 50px ; border: 2px solid black; background-color: #ecdbcf; padding: 50px;}
+
+#aling{ margin-left: 660px; width: 400px;}
+
+
+
+/* .text{ width: 500px; font-size: 20px; } */
+
+.clm{ width: 50%;}
+
+.fhead{ font-weight: bold; font-size: 35px; margin-bottom: 20px; }
+
+.fp{ font-weight: 500; margin-bottom: 20px; }
+
+.frm > input, textarea{ display: block; margin-bottom: 20px; padding: 15px 20px ; border-radius: 5px; border: none; width: 100%; }
+
+.scl{ margin-right: 30px ;}
+
+
+
+
 
