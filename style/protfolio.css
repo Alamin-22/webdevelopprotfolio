@@ -3,7 +3,7 @@
 /* common shared styles */
 body {font-family: 'Open Sans', sans-serif;}
 
-.btn{ background-color: #FD6E0A; color: aliceblue; padding: 5px; border-radius: 5px; font-size: 22px; cursor: pointer; border: 0px; margin-right: 30px;}
+.btn{ background-color: #FD6E0A; color: aliceblue; padding: 15px; border-radius: 5px; font-size: 22px; cursor: pointer; border: 0px; margin-right: 30px;}
 .btn:hover{ color: rgb(101, 29, 168);}
 
 .about-title{text-align: center;  color: #181818; font-size: 35px; font-weight: 700; }
