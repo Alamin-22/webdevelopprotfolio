@@ -93,7 +93,7 @@ main{width: 1140px; margin: auto; }
 
 .foot{ display: flex; align-items: center; height: 450px; margin-top: 50px ; border: 2px solid black; background-color: #ecdbcf; padding: 50px;}
 
-#aling{ margin-left: 660px; width: 400px;}
+#aling{ margin-left: 660px; margin-right: 50px;  width: 400px;}
 
 
 
